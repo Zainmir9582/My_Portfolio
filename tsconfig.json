@@ -1,9 +1,5 @@
 {
   "compilerOptions": {
-  
-      "rules": {
-        "react/no-unescaped-entities": "off"
-      },
     
     "target": "ES2017",
     "lib": ["dom", "dom.iterable", "esnext"],
